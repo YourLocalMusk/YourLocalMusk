@@ -9,7 +9,7 @@ I'm the proud owner of **Axone**, a development company which I'm working on.
 <br><br>
 I'm interested in old computers, Windows operating systems, web development and game development.
 
-## What I've made so far :
+<!--## What I've made so far :
 
 ### 💻 Axone Old Computer
 <img src="https://tr.rbxcdn.com/8aedda45c556781f23d682cc7dbaa032/768/432/Image/Png" height="200">
@@ -30,3 +30,4 @@ I'm interested in old computers, Windows operating systems, web development and 
 
 <img src="https://github.com/YourLocalMusk/YourLocalMusk/assets/81581473/0090164e-4f03-4409-8036-b11bc673a7bf" height="300">
 <img src="https://github.com/YourLocalMusk/YourLocalMusk/assets/81581473/dc89ba8f-1bf9-4bd0-b5e1-8f7c9a15c5ff" height="300">
+-->
