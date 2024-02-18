@@ -3,7 +3,7 @@
 # 👋 Hello there I'm Gabriel 
 ### I'm a 17-year-old French student who is learning web development & cybersecurity.
 
-I'm the proud owner of **Axone**, a development company which I'm working on.
+I'm the proud owner of **Axone**, a development group which I'm working on.
 <br>
 👉 [Visit my website](https://axonedev.fr)
 <br><br>
