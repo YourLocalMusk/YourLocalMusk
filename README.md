@@ -28,5 +28,5 @@ I'm interested in old computers, Windows operating systems, web development and 
 
 [Facecock](http://thefacecock.me) is a parody of Facebook. This website has the style of Facebook from the 2010's and is currently invite-only.
 
-<img src="https://github.com/YourLocalMusk/YourLocalMusk/assets/81581473/0090164e-4f03-4409-8036-b11bc673a7bf" height="400">
-<img src="https://github.com/YourLocalMusk/YourLocalMusk/assets/81581473/dc89ba8f-1bf9-4bd0-b5e1-8f7c9a15c5ff" height="400">
+<img src="https://github.com/YourLocalMusk/YourLocalMusk/assets/81581473/0090164e-4f03-4409-8036-b11bc673a7bf" height="300">
+<img src="https://github.com/YourLocalMusk/YourLocalMusk/assets/81581473/dc89ba8f-1bf9-4bd0-b5e1-8f7c9a15c5ff" height="300">
