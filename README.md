@@ -1,7 +1,7 @@
 # Hello there I'm Gabriel
 ### I'm a 17 year-old student learning web development & cybersecurity
 
-![alt text](https://cdn.discordapp.com/attachments/1136648792981110794/1191309138052010084/Untitled_Artwork-5.png?ex=65dc5717&is=65c9e217&hm=d8177ee3233e9b55d0ce0393247a7682b0f25c3d5c3e62794a465dcac0ee530e&)
+![alt text](https://axonedev.fr/content/img/logo2.png)
 
 <!--
 **YourLocalMusk/YourLocalMusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
